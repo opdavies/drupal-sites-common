@@ -1,6 +1,9 @@
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc4"
 
+projects[features][subdir] = "contrib"
+projects[features][version] = "2.2"
+
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
 
