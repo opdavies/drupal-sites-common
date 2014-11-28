@@ -40,6 +40,9 @@ projects[security_review][version] = "1.2"
 projects[stage_file_proxy][subdir] = "contrib"
 projects[stage_file_proxy][verison] = "1.6"
 
+projects[strongarm][subdir] = "contrib"
+projects[strongarm][version] = "2.0"
+
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
