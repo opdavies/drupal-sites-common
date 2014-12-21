@@ -1,6 +1,3 @@
-projects[environment_indicator] = "contrib"
-projects[environment_indicator] = "2.5"
-
 projects[paranoia][subdir] = "contrib"
 projects[paranoia][version] = "1.3"
 
