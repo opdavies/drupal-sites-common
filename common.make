@@ -1,3 +1,6 @@
+projects[master][subdir] = "contrib"
+projects[master][version] = "2.0-beta4"
+
 projects[paranoia][subdir] = "contrib"
 projects[paranoia][version] = "1.3"
 
