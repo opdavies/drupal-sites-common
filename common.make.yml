@@ -1,13 +1,16 @@
-api: 2
-core: 7.x
-
-defaults:
-  projects:
-    subdir: contrib
-
 projects:
-  master: 2.0-beta4
-  paranoia: 1.3
-  reroute_email: 1.2
-  security_review: 1.2
-  stage_file_proxy: 1.6
+  master:
+    subdir: contrib
+    version: 2.0-beta4
+  paranoia:
+    subdir: contrib
+    version: 1.3
+  reroute_email:
+    subdir: contrib
+    version: 1.2
+  security_review:
+    subdir: contrib
+    version: 1.2
+  stage_file_proxy:
+    subdir: contrib
+    version: 1.6
